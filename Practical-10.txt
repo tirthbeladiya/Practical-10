@@ -1,0 +1,2 @@
+10101 in Base 2 = 21 in Base 10
+23 in Base 10 = 10111 in Base 2
